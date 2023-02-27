@@ -15,3 +15,9 @@
  * When user clicks on any room's features, can see the room's features and other details
  
    [![Header](https://res.cloudinary.com/hapiii/image/upload/v1677521860/react-apps/Beach-resort/mrgpntdtwlky3cieqjp3.png)](https://some-url.dev/)
+   
+  * The app is responsive for all screen sizes
+  
+   [![Header](https://res.cloudinary.com/hapiii/image/upload/v1677521859/react-apps/Beach-resort/w8lzfjz0qvf5fbkaq3fz.png)](https://some-url.dev/)
+   
+    [![Header](https://res.cloudinary.com/hapiii/image/upload/v1677521863/react-apps/Beach-resort/rv1uw14p5r4vmdniyacr.png)](https://some-url.dev/)
