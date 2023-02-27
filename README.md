@@ -10,6 +10,8 @@
   
   [![Header](https://res.cloudinary.com/hapiii/image/upload/v1677521860/react-apps/Beach-resort/nwwv3aif1cxclzakflnu.png)](https://some-url.dev/)
   
+   [![Header](https://res.cloudinary.com/hapiii/image/upload/v1677521860/react-apps/Beach-resort/hieaocdatljpu4zvpbij.png)](https://some-url.dev/)
+   
  * When user clicks on any room's features, can see the room's features and other details
  
    [![Header](https://res.cloudinary.com/hapiii/image/upload/v1677521860/react-apps/Beach-resort/mrgpntdtwlky3cieqjp3.png)](https://some-url.dev/)
